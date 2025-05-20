@@ -1,2 +1,6 @@
 /postgres-keycloak-data
 2024__yandex-architecture-sso.code-workspace
+/api/bin/Debug/net9.0
+/.vs
+/api/.vs
+/obj
