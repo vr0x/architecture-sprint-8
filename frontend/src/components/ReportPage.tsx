@@ -21,6 +21,7 @@ const ReportPage: React.FC = () => {
           'Authorization': `Bearer ${keycloak.token}`
         }
       });
+      window.alert('Отчёт получен');
 
       
     } catch (err) {
